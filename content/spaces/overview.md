@@ -109,7 +109,7 @@ up space upgrade --rollback
 
 ### Uninstall a Space
 
-To uninstall a Space from a Kubernetes cluster, use [up space destory]({{<ref "reference/cli/command-reference.md#space-destroy">}}). A destroy operation uninstalls core components and orphans control planes and their associated resources.
+To uninstall a Space from a Kubernetes cluster, use [up space destroy]({{<ref "reference/cli/command-reference.md#space-destroy">}}). A destroy operation uninstalls core components and orphans control planes and their associated resources.
 
 ```bash
 up space destroy
