@@ -327,7 +327,7 @@ the resources in your cloud provider and update the state file.
 
 You created a resource with the Crossplane `provider-terraform`! For more
 information on advanced migration tactics, watch this Upbound [sponsored
-webinar](https://www.youtube.com/watch?v=crM-zng8LfI) with the team behind the
+webinar]([https://www.youtube.com/watch?v=crM-zng8LfI](https://resources.upbound.io/crossplane/kubernetes-called-and-it-wants-your-iac-back-using-control-planes-to-modernize-your-iac-tech-stack) with the team behind the
 Crossplane `provider-terraform`.
 
 <!-- vale gitlab.FutureTense = NO -->
