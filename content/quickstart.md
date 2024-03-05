@@ -124,7 +124,7 @@ To allow the `upbound-oidc-provider` registration created in the previous step t
 
 {{< editCode >}}
 ```yaml
-mcp:$@<your-org>/<your-control-plane-name>$@:provider-provider-azure
+mcp:$@<your-org>/<your-control-plane-name>$@:provider:provider-azure
 ```
 {{< /editCode >}}
 
